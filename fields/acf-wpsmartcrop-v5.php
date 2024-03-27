@@ -156,7 +156,7 @@ class acf_field_wpsmartcrop extends acf_field {
 		echo '<input class="focal-top" type="hidden" name="' . esc_attr($field['name']) . '[focal_top]" value="' . esc_attr($focal_top) . '" />';
 
     echo '<div class="no-image-selected">';
-    echo '<span>' . __('No image seleced','acf-wpsmartcrop') . '</span>';
+    echo '<span>' . __('No image selected','acf-wpsmartcrop') . '</span>';
     echo '<input type="button" class="button add-image" value="' . __('Select Image','acf-wpsmartcrop') . '" />';
     echo '</div>';
     echo '<div class="image-selected">';

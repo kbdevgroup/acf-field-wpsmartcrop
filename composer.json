@@ -1,0 +1,13 @@
+{
+    "name": "kbdevgroup/acf-field-wpsmartcrop",
+    "description": "An ACF field to work with the WP-SmartCrop plugin.",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bjørn Rosell",
+            "homepage": "https://www.bitwise-it.dk/"
+        }
+    ],
+    "require": {}
+}
